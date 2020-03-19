@@ -1,0 +1,3 @@
+Read about the context
+Read the code for hooks and hooks in this project
+Read about the Linkas and stuff
